@@ -1,0 +1,6 @@
+module Pods_livraison_livraisonTests {
+  umbrella header "Pods-livraison-livraisonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
